@@ -14,7 +14,7 @@
 
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/vaishnavid0604/agriculture-portal.git
+git clone https://github.com/Pranaykamthe/Agriculture_Portal.git
 ```
 2. Goto Farmers folder and Install the required packages using pip.
 ```
